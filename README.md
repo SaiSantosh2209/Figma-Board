@@ -14,10 +14,12 @@ Figma Board is a real-time design collaboration tool that allows multiple users 
 - Fabric.js for canvas rendering
 - Liveblocks for real-time synchronization
 
-##UI Screenshots 
+## UI Screenshots 
 
+# Image 1
 ![image](https://github.com/SaiSantosh2209/Figma-Board/assets/83724995/1bf9a3bb-6cb6-4f47-96a7-e6a273be8dfe)
 
+# Image 2 
 ![image](https://github.com/SaiSantosh2209/Figma-Board/assets/83724995/26c6e588-47e7-49de-9fe3-a6490cb4799e)
 
 
