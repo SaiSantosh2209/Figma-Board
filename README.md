@@ -34,8 +34,8 @@ To get started with Figma Board, follow the steps below.
 2. Navigate to the project directory using the `cd` command:
    ```bash
    cd Figma-Board
-   
-3.For running the Application type :
+   ```
+3. For running the Application type :
   ```bash
   npm run dev
 ```
